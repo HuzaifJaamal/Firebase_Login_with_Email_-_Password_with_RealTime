@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "9555512897",
+    "project_id": "watch-app-4b876",
+    "storage_bucket": "watch-app-4b876.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9555512897:android:d3033aa5eb174d4d39c0c0",
+        "android_client_info": {
+          "package_name": "com.example.firebasegoogleauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9555512897-vn9tson0a9jfb33oangtun6uq3ej17cc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasegoogleauthentication",
+            "certificate_hash": "a9246eaba78a8979b0a32634eb18f829391c8e47"
+          }
+        },
+        {
+          "client_id": "9555512897-ucmlsrbg75bdrnjpt9sc0ojmck7t3qih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqSFjloliVjRumhlA9_7C4uUu44v9sOoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9555512897-ucmlsrbg75bdrnjpt9sc0ojmck7t3qih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9555512897:android:6a6e716ce1e7111739c0c0",
+        "android_client_info": {
+          "package_name": "com.example.testing_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9555512897-ucmlsrbg75bdrnjpt9sc0ojmck7t3qih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqSFjloliVjRumhlA9_7C4uUu44v9sOoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9555512897-ucmlsrbg75bdrnjpt9sc0ojmck7t3qih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9555512897:android:85d3b68013d2db4339c0c0",
+        "android_client_info": {
+          "package_name": "com.example.watch_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9555512897-ucmlsrbg75bdrnjpt9sc0ojmck7t3qih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqSFjloliVjRumhlA9_7C4uUu44v9sOoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9555512897-ucmlsrbg75bdrnjpt9sc0ojmck7t3qih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
